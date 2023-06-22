@@ -1,0 +1,3 @@
+The project is a laptop price predictor system that uses regression concepts to predict the price of a laptop based on its features. I also built a website to provide a user-friendly interface for users to input laptop specifications and get predicted prices. The system works by analyzing the relationships between laptop features such as processor, RAM, and storage, and their corresponding prices to build a regression model that can predict the price of a laptop based on its features.
+
+The .pkl files are pickle files, where the pipeline of the model is stored (pipe.pkl) and the dataset (data.pkl). These pickle files are imported in a .py file , called app.py, which is used to create a website to put the machine learning code to use.
